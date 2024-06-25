@@ -25,9 +25,7 @@ The aesthetic user interface is achieved with the help of FIGMA tool for design.
 
 
 
-![buslogin](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/fc86bc1b-7caf-470b-bafc-5dac4262410c)
-
 ![TicketSignUp](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/bddac3fe-0899-4421-8adf-8871d9bf9bbe)
-<!--![TicketLogin](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/d0468344-ea86-4a39-b66f-d616d6674b5d)-->
-<!--![TicketGeneration](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/3643c246-6fd6-46f9-880b-7f428e16fab4)-->
-<!--![TicketBooking](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/18536bc4-bc6a-4964-978b-5961fdf5f469)-->
+![TicketLogin](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/d0468344-ea86-4a39-b66f-d616d6674b5d)
+![TicketGeneration](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/3643c246-6fd6-46f9-880b-7f428e16fab4)
+![TicketBooking](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/18536bc4-bc6a-4964-978b-5961fdf5f469)
