@@ -14,7 +14,8 @@ is checked for compatability with respect to the array entries and positions.
 On successful login, the user enters the main Booking Activity. Here the user can select from various starting points and destinations. As an inter-city bus system,
 the rate between bus stops is standardized to a constant amount. According to number of passengers, the fare for a bus journey is calculated. 
 
-To facilitate the payment, Google pay integration has been implemented. On click of a booking button, the code checks whether the user has an active google pay application installed, and redirects to the application. The user will be directed to the final-step of entering the pin, for the calculated amount automatically.
+To facilitate the payment, Google pay integration has been implemented. On click of a booking button, the code checks whether the user 
+has an active google pay application installed, and redirects to the application. The user will be directed to the final-step of entering the pin, for the calculated amount automatically.
 
 On successful payment, returning back to the application, the user sees a Qr generation Activity, where his/her ticket for the journey will be generated with all 
 the details regarding date, start, destination, a unique transaction id and QR code to be scanned in real-time.
@@ -24,7 +25,9 @@ The aesthetic user interface is achieved with the help of FIGMA tool for design.
 
 
 
-<!--![TicketSignUp](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/bddac3fe-0899-4421-8adf-8871d9bf9bbe)-->
+![buslogin](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/fc86bc1b-7caf-470b-bafc-5dac4262410c)
+
+![TicketSignUp](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/bddac3fe-0899-4421-8adf-8871d9bf9bbe)
 <!--![TicketLogin](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/d0468344-ea86-4a39-b66f-d616d6674b5d)-->
 <!--![TicketGeneration](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/3643c246-6fd6-46f9-880b-7f428e16fab4)-->
 <!--![TicketBooking](https://github.com/NavneethMNambiar/BusTicketBookingSystem/assets/121511892/18536bc4-bc6a-4964-978b-5961fdf5f469)-->
